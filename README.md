@@ -36,3 +36,14 @@ The full might of Void2D is unleashed in this version.  Includes support for fea
 - Void2DNXLL - Nintendo Switch compatible version of Void2D Low Level \*
 
 \* *(Note:  This version of Void2D uses OpenGL rather than DirectX.  Additionally, maximum output resolution is capped at 1920x1080p, maximum framerate is capped at 60fps and Ray Tracing is not available)*
+
+
+## FAQ
+
+#### Where's the support for PlayStation?
+
+PS4/5 development kits are far too expensive for me to obtain (they are in excess of $4000, compared to Switch's $400 and Xbox's $0 dev mode).  Unless someone wants to donate me a couple of PS4/5 devkits, I have no plans to support the platform.  I apologize for any inconvience this may cause.  Talk to Sony about lowering the price of their devkits to something reasonable if you are unhappy.
+
+#### X is/isn't possible on Y hardware, but Void2D's RealRetro is/isn't detecting it
+
+Please submit a bug report and I'll look into it.  Please note that Void2D's RealRetro technology is experimental and is not intended to be an absolute perfect match to the constraints of the target hardware.  While I will try to get as close as reasonably possible, the system will never be perfect.
