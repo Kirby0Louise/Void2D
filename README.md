@@ -13,6 +13,19 @@ Void2D is licensed under the Mozilla Public License 2.0 (MPL 2.0).  In short, th
 
 Additionally, while not part of the formal license, I ask that you please leave in the "Powered by Void2D Game Engine - By Kirby0Louise" startup screen.  I do not intend to take any credit for what you make using Void2D, but simply would like to use it as an oppertunity to spread awareness of the engine.
 
+## Features
+
+Void2D contains a wide variety of features.  I have listed just a few of them here.  You can read more in depth about these and others on the wiki.
+
+- Powerful 2D graphics engine that squeezes everything it can from your GPU and CPU.
+- Support for up to 7680x4320p (8K) resolution and 120fps
+- Retro console esque architecture, easy to learn and very flexible
+- RealRetro technology, a feature that allows you to accurately simulate the limitations of actual game consoles of the past
+- Ray Tracing
+- FrameFX, a powerful, assembly like scripting language that allows you to create beautiful effects over your final rendered image
+- Render to Texture, allowing you to render an image normally and then use that image as an object in the final rendered result
+- Cross platform support for Xbox Scarlett, Windows 10 and Nintendo Switch
+
 ## Build Variants
 
 Void2D comes in several different variants, each with distict differences.  The variations are as follows:
@@ -42,7 +55,11 @@ The full might of Void2D is unleashed in this version.  Includes support for fea
 
 #### Where's the support for PlayStation?
 
-PS4/5 development kits are far too expensive for me to obtain (they are in excess of $4000, compared to Switch's $400 and Xbox's $0 dev mode).  Unless someone wants to donate me a couple of PS4/5 devkits, I have no plans to support the platform.  I apologize for any inconvience this may cause.  Talk to Sony about lowering the price of their devkits to something reasonable if you are unhappy.
+PS4/5 development kits are far too expensive for me to obtain (they are in excess of $4000, compared to Switch's $400 and Xbox's $0 dev mode).  Unless someone wants to donate me a couple of PS4/5 devkits, I have no plans to support the platform.  I apologize for any inconvience this may cause.  Talk to Sony about lowering the price of their devkits to something reasonable if you are unhappy.  You are of course free to make your own PS4/5 fork of Void2D, as long as it remains open source.  If I do manage to get my hands on some PS4/5 devkits I may even use your code in the main branch, and of course you will be fully credited.
+
+#### What do you mean by "retro console esque architecture"?
+
+Void2D draws two different types of images to the final render result, Sprites and Background Layers.  With one exception, these images consist of 8x8 tiles from TVRAM, arranged as determined by the developer.  This is similar to how consoles such as the NES, Master System, SNES and Genesis worked.  Void2D also shares some similarities to consoles such as the Sega Saturn and N64, such as their ability to draw quads and perform framebuffer effects.  Hence why it has a "retro console esque architecture".
 
 #### X is/isn't possible on Y hardware, but Void2D's RealRetro is/isn't detecting it
 
