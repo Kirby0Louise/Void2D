@@ -9,7 +9,7 @@ Using Void2D is very easy.  Simply download the Visual Studio template of your c
 
 ## Licensing
 
-Void2D is licensed under the Mozilla Public License 2.0 (MPL 2.0).  In short, this means you are free to do whatever you want with the software, including using it in commercial products.  However, you must make the source code of any project you use it in available on request.  The full license text can be found in the LINK TO LICENSE FILE HERE.
+Void2D is licensed under the Mozilla Public License 2.0 (MPL 2.0).  In short, this means you are free to do whatever you want with the software, including using it in commercial products.  However, you must make the source code of any Void2D files  in any project you use it in available on request.  The full license text can be found in the license file.
 
 Additionally, while not part of the formal license, I ask that you please leave in the "Powered by Void2D Game Engine - By Kirby0Louise" startup screen.  I do not intend to take any credit for what you make using Void2D, but simply would like to use it as an oppertunity to spread awareness of the engine.
 
