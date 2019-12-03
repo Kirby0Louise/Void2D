@@ -64,3 +64,7 @@ Void2D draws two different types of images to the final render result, Sprites a
 #### X is/isn't possible on Y hardware, but Void2D's RealRetro is/isn't detecting it
 
 Please submit a bug report and I'll look into it.  Please note that Void2D's RealRetro technology is experimental and is not intended to be an absolute perfect match to the constraints of the target hardware.  While I will try to get as close as reasonably possible, the system will never be perfect.
+
+#### Is Louise cute?
+
+Yes!  Absolutely!
