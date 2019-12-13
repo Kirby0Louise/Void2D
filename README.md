@@ -24,7 +24,7 @@ Void2D contains a wide variety of features.  I have listed just a few of them he
 - Ray Tracing
 - FrameFX, a powerful, assembly like scripting language that allows you to create beautiful effects over your final rendered image
 - Render to Texture, allowing you to render an image normally and then use that image as an object in the final rendered result
-- Cross platform support for Xbox Scarlett, Windows 10 and Nintendo Switch
+- Cross platform support for Xbox Series X, Windows 10 and Nintendo Switch
 
 ## Build Variants
 
@@ -34,7 +34,7 @@ Void2D comes in several different variants, each with distict differences.  The 
 
 A simplied version of Void2D intended for novice developers as well as projects that do not require use of the more advanced features of the engine.  This is the version that I recommend those new to Void2D use.
 
-- Void2DXSeXHL - Xbox Scarlett compatible version of Void2D High Level
+- Void2DXSeXHL - Xbox Series X compatible version of Void2D High Level
 - Void2DWin10HL - Windows 10 compatible version of Void2D High Level
 - Void2DNXHL - Nintendo Switch compatible version of Void2D High Level \*
 
@@ -44,7 +44,7 @@ A simplied version of Void2D intended for novice developers as well as projects 
 
 The full might of Void2D is unleashed in this version.  Includes support for features disabled in Void2D High Level, such as Render to Texture, Ray Tracing (on supported platforms), direct access to the virtual GPU command queue, FrameFX and more.  Recommended for experienced users as it is easier to break things with it.
 
-- Void2DXSeXLL - Xbox Scarlett compatible version of Void2D Low Level
+- Void2DXSeXLL - Xbox Series X compatible version of Void2D Low Level
 - Void2DWin10LL - Windows 10 compatible version of Void2D Low Level
 - Void2DNXLL - Nintendo Switch compatible version of Void2D Low Level \*
 
