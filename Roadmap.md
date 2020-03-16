@@ -67,6 +67,7 @@ This page documents the current roadmap and its status.  Please note that this m
 
 #### v 1.3
 
+* Add support for SeX CPU profiles (8c16t @ 3.6GHz OR 8c8t @ 3.8GHz)
 * Add support for DLI (Dynamic Latency Input)
 * Add support for multi-quick resume
 * Add support for full HDMI 2.1 signal range
