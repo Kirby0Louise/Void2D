@@ -38,7 +38,7 @@ A simplied version of Void2D intended for novice developers as well as projects 
 - Void2DWin10HL - Windows 10 compatible version of Void2D High Level
 - Void2DNXHL - Nintendo Switch compatible version of Void2D High Level \*
 
-\* *(Note:  This version of Void2D uses OpenGL rather than DirectX.  Additionally, maximum output resolution is capped at 1920x1080p and maximum framerate is capped at 60fps)*
+\* *(Note:  This version of Void2D uses Vulkan rather than DirectX.  Additionally, maximum output resolution is capped at 1920x1080p and maximum output framerate is capped at 60fps)*
 
 #### Void2D Low Level
 
@@ -48,7 +48,7 @@ The full might of Void2D is unleashed in this version.  Includes support for fea
 - Void2DWin10LL - Windows 10 compatible version of Void2D Low Level
 - Void2DNXLL - Nintendo Switch compatible version of Void2D Low Level \*
 
-\* *(Note:  This version of Void2D uses OpenGL rather than DirectX.  Additionally, maximum output resolution is capped at 1920x1080p, maximum framerate is capped at 60fps and Ray Tracing is not available)*
+\* *(Note:  This version of Void2D uses Vulkan rather than DirectX.  Additionally, maximum output resolution is capped at 1920x1080p, maximum output framerate is capped at 60fps and Ray Tracing is not available)*
 
 
 ## FAQ
@@ -64,6 +64,10 @@ Void2D draws two different types of images to the final render result, Sprites a
 #### X is/isn't possible on Y hardware, but Void2D's RealRetro is/isn't detecting it
 
 Please submit a bug report and I'll look into it.  Please note that Void2D's RealRetro technology is experimental and is not intended to be an absolute perfect match to the constraints of the target hardware.  While I will try to get as close as reasonably possible, the system will never be perfect.
+
+#### Are you actually going to ever release this?
+
+Yes, and Void2D (as well as Void3D) are both WIP projects that I do at my own pace in my free time.  Engines take a long time to develop even with professional, paid teams of engineers, let alone a single college student developing as a hobby in their free time.  It will likely be years before the first release comes out.
 
 #### Is Louise cute?
 
