@@ -18,13 +18,18 @@ Additionally, while not part of the formal license, I ask that you please leave 
 Void2D contains a wide variety of features.  I have listed just a few of them here.  You can read more in depth about these and others on the wiki.
 
 - Powerful 2D graphics engine that squeezes everything it can from your GPU and CPU.
+- Full DirectX 12 Ultimate support
 - Support for up to 7680x4320p (8K) resolution and 120fps
+- HDR10 and Dobly Vision 12-bit HDR support
 - Retro console esque architecture, easy to learn and very flexible
 - RealRetro technology, a feature that allows you to accurately simulate the limitations of actual game consoles of the past
 - Ray Tracing
+- Nvidia DLSS 2
+- AMD FidelityFX Super Resolution
+- DirectML Super Resolution
 - FrameFX, a powerful, assembly like scripting language that allows you to create beautiful effects over your final rendered image
 - Render to Texture, allowing you to render an image normally and then use that image as an object in the final rendered result
-- Cross platform support for Xbox Series X, Windows 10 and Nintendo Switch
+- Cross platform support for Xbox Series X|S, Windows 10 and Nintendo Switch
 
 ## Build Variants
 
